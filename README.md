@@ -4,6 +4,7 @@ A collection of automation projects built using n8n and AI tools. These workflow
 
 ## Projects
 - AI-Powered WhatsApp Order & Inventory Assistant
+- Automated Customer Allocation & Email Response System
 - Automated Daily Stock Data Fetcher & Email Reporter
 - Chatbot for Course Selling Website
 - Mobile Accessories Inventory System
