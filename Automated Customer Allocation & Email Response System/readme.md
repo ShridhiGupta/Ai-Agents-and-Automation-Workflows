@@ -1,4 +1,4 @@
-# Automated Customer Allocation & Email Response System (n8n)
+# Automated Customer Allocation & Email Response System
 
 A streamlined n8n workflow that automates customer handling from form submissions. It processes incoming form data, assigns customers to the right salesperson, generates AI-crafted email replies, and stores customer details — all without manual effort.
 
