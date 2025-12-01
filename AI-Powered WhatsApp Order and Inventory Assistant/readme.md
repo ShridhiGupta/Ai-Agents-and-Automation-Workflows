@@ -1,4 +1,4 @@
-# AI-Powered WhatsApp Order & Inventory Assistant (n8n)
+# AI-Powered WhatsApp Order & Inventory Assistant
 
 A simple n8n workflow that automates WhatsApp-based ordering and inventory management using an AI Agent, Google Gemini, and Google Sheets. It reads customer messages, understands orders or queries, checks inventory, retrieves FAQs, updates order sheets, and replies instantly through WhatsApp.
 
